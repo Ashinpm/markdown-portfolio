@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HELLO ALL*
+_WELCOME_
+
+**ARDUINO**
+__RASPBERRY PI__
+
+_You **WELCOMW** TO BE HERE_
