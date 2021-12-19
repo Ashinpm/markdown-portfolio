@@ -1,1 +1,2 @@
-[GitHub Profile](https://github.com/Ashinpm)
+My GitHub Profile
+click [here](https://github.com/Ashinpm)
